@@ -1,0 +1,17 @@
+{
+  "name": "reactcrud",
+  "version": "1.0.0",
+  "description": "reactcrud",
+  "main": "server.js",
+  "scripts": {
+    "test": "react"
+  },
+  "author": "gayathri",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^4.13.17",
+    "morgan": "^1.9.1"
+  }
+}
